@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Vector.cpp
+C:\Distantion\Programm\2\Vector.cpp(15,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  2.vcxproj -> C:\Distantion\Programm\2\Debug\2.exe
