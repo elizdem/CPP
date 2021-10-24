@@ -1,0 +1,10 @@
+﻿  Fraction.cpp
+C:\Distantion\Programm\2\Fraction.cpp(31,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Distantion\Programm\2\Fraction.cpp(36,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Distantion\Programm\2\Fraction.cpp(81,9): warning C4477: "printf": в строке форматирования "%.0f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+  Main.cpp
+  Matrix.cpp
+  Vector.cpp
+C:\Distantion\Programm\2\Vector.cpp(15,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  2.vcxproj -> C:\Distantion\Programm\2\Debug\2.exe
