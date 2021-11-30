@@ -1,0 +1,16 @@
+﻿  Conditioner.cpp
+  CustomExpressionsEvaluator.cpp
+C:\Distantion\Programm\3\CustomExpressionsEvaluator.cpp(43,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Divisor.cpp
+C:\Distantion\Programm\3\Divisor.cpp(35,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ExpressionEvaluator.cpp
+C:\Distantion\Programm\3\ExpressionEvaluator.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Heater.cpp
+  HouseholdDevice.cpp
+  lab3_main.cpp
+  Multiplier.cpp
+  Subtractor.cpp
+C:\Distantion\Programm\3\Subtractor.cpp(26,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Summator.cpp
+  Создание кода...
+  lab3_InheritancePolymorphismInterfaces.vcxproj -> C:\Distantion\Programm\3\Debug\lab3_InheritancePolymorphismInterfaces.exe
